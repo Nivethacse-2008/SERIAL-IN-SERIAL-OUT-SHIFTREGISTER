@@ -73,7 +73,9 @@ Developed by:NIVETHA.S.K RegisterNumber:25016594
 **TIMING DIGRAMS FOR SISO Shift Register**
 
 
-<img width="1366" height="768" alt="ex5 out" src="https://github.com/user-attachments/assets/b4410cd4-cc3f-47fc-843b-bebc5fce3b55" />
+
+<img width="950" height="441" alt="2025-12-16 (11)" src="https://github.com/user-attachments/assets/8156c22b-f8fd-4590-b97f-a677686e7de5" />
+
 
 
 
